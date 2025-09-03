@@ -31,15 +31,15 @@ print("""Hello World!""")       # Three pairs of quotation marks don't matter
 # Server, Client, Browser, Html, Css, Javascript, Java, C#, Python
 
 
-# Phyton Yorumlama Dili (interpreted language) Derleme işlemine ihtiyacı olmadan da çalıştırılabiliyor.
+# Python Interpreted Language can be run without the need for compilation.
 # Unlike compiled languages, Python code is executed line by line by an interpreter.
 # (Yani: Derlenen dillerin aksine, Python kodları yorumlayıcı tarafından satır satır çalıştırılır.)
-# Yorumlayıcı olması derlenme ihtiyacı olmadan çalışması runtime da dinamik olarak ÜRETİLEN kodun runtime da çalıştırılmasını sağlayabilir.
+# Being interpreted, it can enable the dynamically generated code to be executed at runtime without the need for compilation.
 
 
-# Phyton Kurulumu
+# Phyton Setup
 # IDE nedir, Editör nedir
-# Console, notedefteri,replit,colab ,PyCharm, Anaconda Jupiter,Phyton Idle, Visual Studio Code
+# Console, notepad,replit,colab ,PyCharm, Anaconda Jupiter,Phyton Idle, Visual Studio Code
 
 
 #Console
