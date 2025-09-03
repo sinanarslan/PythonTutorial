@@ -27,9 +27,8 @@ print("""Hello World!""")       # Three pairs of quotation marks don't matter
 # The computer's processor only understands 1s and 0s, and that language is called machine language.
 # Text, Sound, Image are all converted into 0s and 1s and sent to the processor.
 # Machine Language, Compiler
-# Programlama Dilleri
+# Programming Languages
 # Server, Client, Browser, Html, Css, Javascript, Java, C#, Python
-
 
 
 # Phyton Yorumlama Dili (interpreted language) Derleme işlemine ihtiyacı olmadan da çalıştırılabiliyor.
