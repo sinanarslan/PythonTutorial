@@ -39,7 +39,7 @@ print("""Hello World!""")       # Three pairs of quotation marks don't matter
 
 # Phyton Kurulumu
 # IDE nedir, Editör nedir
-# Console, notedefteri,replit,colab ,PyCharm, Anaconda Jupiter,Phyton Idle
+# Console, notedefteri,replit,colab ,PyCharm, Anaconda Jupiter,Phyton Idle, Visual Studio Code
 
 
 #Console
