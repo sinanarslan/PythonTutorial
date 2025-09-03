@@ -1,1 +1,79 @@
+# General Definitions
+
+#This is a comment
+
+"""
+This is also 
+a multi-line comment.
+"""
+
+#print() function
+#print() fonksiyonu birden fazla argüman alabilir.
+#print() fonksiyonu argümanlarını birleştirir ve sonucu ekrana yazdırır.
+print("Hello World!")
+print("Hello, World!")
+print("Hello" ,"World!")
+print("Hello" ,"World!","Python ")
+print("Hello" ,"World!","Python",sep="*")
+print("Hello" ,"World!","Python",sep="*",end="!")
+print("Hello" +"World!")
+print("Hello" +"World!"+"Python")
+print("Hello" +"World!"+"Python",sep="*")
+print("Hello" +"World!"+"Python","Ayrıcı Nerede",sep="*",end="!")
+print('Hello World!')   # Tek tırnak fark etmiyor
+print("""Hello World!""") # Üç Tırnak  fark etmiyor
+
+# Bilgisayarın İşlemcisi Sadece 1 ve 0 lardan anlar o dile de makine dili denir.
+# Metin,Ses, Görüntü hepsi sadece 0 ve 1 lerde dönüşerek işlemciye gönderilir.
+# Makine Dili, Derleyici
+# Programlama Dilleri
+# Server, Client, Browser, Html, Css, Javascript, Java, C#, Python
+
+
+
+# Phyton Yorumlama Dili (interpreted language) Derleme işlemine ihtiyacı olmadan da çalıştırılabiliyor.
+# Unlike compiled languages, Python code is executed line by line by an interpreter.
+# (Yani: Derlenen dillerin aksine, Python kodları yorumlayıcı tarafından satır satır çalıştırılır.)
+# Yorumlayıcı olması derlenme ihtiyacı olmadan çalışması runtime da dinamik olarak ÜRETİLEN kodun runtime da çalıştırılmasını sağlayabilir.
+
+
+# Phyton Kurulumu
+# IDE nedir, Editör nedir
+# Console, notedefteri,replit,colab ,PyCharm, Anaconda Jupiter,Phyton Idle
+
+
+#Console
+#python
+#print("Merhaba")
+
+# notedefteri ile merhabapyton.py oluştur
+# D:\YZ>python merhabapyton.py   veya
+# D:\YZ>py merhabapyton.py
+
+
+
+#Anaconda Jupiter
+
+#Phyton Idle
+
+#PyCharm
+
+#colab
+# Notebook formatında kod yazmanızı sağlar.
+#    Dosya - Yeni Not Defteri
+# Defterlerin kayıt olmasını sağlayabilirsiniz.
+# Colab e bağlı kalmak kodlarımızı local bilgisayarımız üzerinden yönetmeye göre tercih edilmeyebilir.
+
+
+#replit
+    #Apps - Create - Choose A Template
+
+
+#Anaconda Diğer Araçlar
+#anaconda.com  -- Distribution version ücretsiz sürüm, professional ücretli sürüm
+#Anaconda Navigator
+#Jupiter Notebook klasörlerini görüntüler. New ile Python  dosyası oluşur. Satır satır yazıp çallıştırabiliriz.
+# Shift + Enter ile de çalıştırabilirsiniz.
+#Jupiter Notebook ayrı olarak açılabilir artık, Her seferinde anaconda açılması gerekmez.
+
 
