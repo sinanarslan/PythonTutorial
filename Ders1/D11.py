@@ -41,14 +41,15 @@ print("""Hello World!""")       # Three pairs of quotation marks don't matter
 # IDE nedir, Editör nedir
 # Console, notepad,replit,colab ,PyCharm, Anaconda Jupiter,Phyton Idle, Visual Studio Code
 
-
+-------------------------------------------------
 #Console
 #python
 #print("Merhaba")
 
-# notedefteri ile merhabapyton.py oluştur
-# D:\YZ>python merhabapyton.py   veya
-# D:\YZ>py merhabapyton.py
+-------------------------------------------------
+# Create hellopyton.py with notepad
+# D:\YZ>python hellopyton.py   veya
+# D:\YZ>py hellopyton.py
 
 
 
