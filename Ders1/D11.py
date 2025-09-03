@@ -21,12 +21,12 @@ print("Hello" +"World!")
 print("Hello" +"World!"+"Python")
 print("Hello" +"World!"+"Python",sep="*")
 print("Hello" +"World!"+"Python","Ayrıcı Nerede",sep="*",end="!")
-print('Hello World!')           # Tek tırnak fark etmiyor
-print("""Hello World!""")       # Üç Tırnak  fark etmiyor
+print('Hello World!')           # Single quotation marks don't matter
+print("""Hello World!""")       # Three pairs of quotation marks don't matter
 
-# Bilgisayarın İşlemcisi Sadece 1 ve 0 lardan anlar o dile de makine dili denir.
-# Metin,Ses, Görüntü hepsi sadece 0 ve 1 lerde dönüşerek işlemciye gönderilir.
-# Makine Dili, Derleyici
+# The computer's processor only understands 1s and 0s, and that language is called machine language.
+# Text, Sound, Image are all converted into 0s and 1s and sent to the processor.
+# Machine Language, Compiler
 # Programlama Dilleri
 # Server, Client, Browser, Html, Css, Javascript, Java, C#, Python
 
