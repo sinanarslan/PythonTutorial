@@ -8,8 +8,8 @@ a multi-line comment.
 """
 
 #print() function
-#print() fonksiyonu birden fazla argüman alabilir.
-#print() fonksiyonu argümanlarını birleştirir ve sonucu ekrana yazdırır.
+#print() function can take more than one argument.
+#print() function combines the arguments and prints the result to the screen.
 print("Hello World!")
 print("Hello, World!")
 print("Hello" ,"World!")
