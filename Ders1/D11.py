@@ -41,27 +41,32 @@ print("""Hello World!""")       # Three pairs of quotation marks don't matter
 # IDE nedir, Editör nedir
 # Console, notepad,replit,colab ,PyCharm, Anaconda Jupiter,Phyton Idle, Visual Studio Code
 
--------------------------------------------------
+----------------------------------------------
 #Console
 #python
 #print("Merhaba")
 
--------------------------------------------------
+----------------------------------------------
 # Create hellopyton.py with notepad
-# D:\YZ>python hellopyton.py   veya
+# D:\YZ>python hellopyton.py   or
 # D:\YZ>py hellopyton.py
 
-
-
+-----------------------------------------------
 #Anaconda Jupiter
-
+-----------------------------------------------
 #Phyton Idle
-
+-----------------------------------------------
 #PyCharm
-
+-----------------------------------------------
 #colab
+-----------------------------------------------
+# Visual Studio Code 
+-----------------------------------------------
+
+
+
 # Notebook formatında kod yazmanızı sağlar.
-#    Dosya - Yeni Not Defteri
+# Dosya - Yeni Not Defteri
 # Defterlerin kayıt olmasını sağlayabilirsiniz.
 # Colab e bağlı kalmak kodlarımızı local bilgisayarımız üzerinden yönetmeye göre tercih edilmeyebilir.
 
