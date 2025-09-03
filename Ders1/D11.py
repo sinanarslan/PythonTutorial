@@ -10,6 +10,7 @@ a multi-line comment.
 #print() function
 #print() function can take more than one argument.
 #print() function combines the arguments and prints the result to the screen.
+
 print("Hello World!")
 print("Hello, World!")
 print("Hello" ,"World!")
@@ -20,8 +21,8 @@ print("Hello" +"World!")
 print("Hello" +"World!"+"Python")
 print("Hello" +"World!"+"Python",sep="*")
 print("Hello" +"World!"+"Python","Ayrıcı Nerede",sep="*",end="!")
-print('Hello World!')   # Tek tırnak fark etmiyor
-print("""Hello World!""") # Üç Tırnak  fark etmiyor
+print('Hello World!')           # Tek tırnak fark etmiyor
+print("""Hello World!""")       # Üç Tırnak  fark etmiyor
 
 # Bilgisayarın İşlemcisi Sadece 1 ve 0 lardan anlar o dile de makine dili denir.
 # Metin,Ses, Görüntü hepsi sadece 0 ve 1 lerde dönüşerek işlemciye gönderilir.
